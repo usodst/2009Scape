@@ -67,6 +67,6 @@ Edit `default.json` in `Server/worldprops`
 Port forwarding instrcutions depend on your router, but you'll want to forward the following ports:
 - 5050 (??? management server I think?)
 - 5555 (World list, or something?)
-- 43945 (World 1)
-- 43946 (World 2)
-- 43947 (World 3)
+- 43595 (World 1)
+- 43596 (World 2)
+- 43597 (World 3)
